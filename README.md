@@ -13,9 +13,11 @@
   <div class="column">
     <img src="screenshots/Screenshot_1.png" width=250 alt="Screenshot 1 of the app" hspace="20">
   </div>
+  
   <div class="column">
     <img src="screenshots/Screenshot_2.png" width=250 alt="Screenshot 2 of the app" hspace="20">
   </div>
+  
   <div class="column">
     <img src="screenshots/Screenshot_3.png" width=250 alt="Screenshot 3 of the app" hspace="20">
   </div>
